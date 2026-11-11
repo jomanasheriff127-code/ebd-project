@@ -8,6 +8,7 @@ function MyRentals() {
       </p>
 
       <h2>My Rentals</h2>
+      <p>Track your rentals from approval to return.</p>
       <p>No rentals to manage yet.</p>
     </div>
   );
